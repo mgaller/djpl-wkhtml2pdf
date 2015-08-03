@@ -19,7 +19,7 @@ setup(
     author_email='toni.michel@schnapptack.de',
     url="https://github.com/tonimichel/djpl-wkhtml2pdf",
     packages=find_packages(),
-    package_dir={'wkhtml2pdf': 'wkhtml2pdf},
+    package_dir={'wkhtml2pdf': 'wkhtml2pdf'},
     include_package_data=True,
     scripts=[],
     zip_safe=False,
